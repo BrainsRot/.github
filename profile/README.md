@@ -16,5 +16,4 @@ But for now, we're still setting up and planning things out.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-If you wish to support us, feel free to below
-<noscript><a href="https://liberapay.com/BrainsRot/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
